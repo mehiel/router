@@ -2,6 +2,7 @@
 /node_modules
 /umd
 /index.js
+/unstable-hooks.js
 /lib
 /compat
 npm-debug.log*
